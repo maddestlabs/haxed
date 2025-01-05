@@ -1,0 +1,12 @@
+{
+    "name": "haxed",
+    "url": "https://github.com/r3v1z3/haxed",
+    "license": "MIT",
+    "tags": ["heaps", "hscript", "web"],
+    "description": "Web-based Heaps.io application with HScript integration",
+    "version": "0.0.1",
+    "dependencies": {
+        "heaps": "",
+        "hscript": ""
+    }
+}
